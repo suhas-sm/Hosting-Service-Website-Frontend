@@ -1,11 +1,11 @@
-# Hosting Service website - Frontend [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS-brightgreen)]
+# Hosting Service website - Frontend
 
 This is basically a pretty large website haveing a standard of 5 pages for an imaginary web hosting website previously i have made the another web hosting website which was a one pager. The project is made in HTML/CSS. 
 Hope you like my project !! it works good in laptop screen if you are using desktop please zoom in or out that might work .
 
 ## Technologies Used
-  - HTML - Hyper Text Markup Language
-  - CSS - Cascadeing Spread Sheet
+  - HTML
+  - CSS
   - CSS Flex box
 
 ## Demo
